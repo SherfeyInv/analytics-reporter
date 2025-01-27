@@ -71,7 +71,7 @@
     "@snyk/protect": "^1.1269.0",
     "dotenv": "^16.4.7",
     "fast-csv": "^4.3.6",
-    "googleapis": "^131.0.0",
+    "googleapis": "^144.0.0",
     "minimist": "^1.2.8",
     "p-retry": "^6.2.1",
     "winston": "^3.11.0"
